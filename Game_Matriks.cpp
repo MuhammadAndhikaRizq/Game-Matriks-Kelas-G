@@ -1,5 +1,3 @@
-# Animals Hunter, With Pokemon Style Game
-
 #include <iostream>
 #include <stdlib.h>
 #include <conio.h>
